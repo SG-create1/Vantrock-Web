@@ -1,2 +1,0 @@
-# Vantrock-Web
-Website hosting 
